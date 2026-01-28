@@ -17,3 +17,21 @@ print(isPalindrome(123))
 
 print(reverse(121))
 print(isPalindrome(121))
+
+def getPalindromes(start,end):
+    res = ""
+    for i in range(1,end+1):
+        if isPalindrome(i):
+            res=res+str(i)+","
+    return res
+
+print(getPalindromes(1,10000))
+
+
+
+
+
+
+
+
+
