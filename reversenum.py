@@ -23,7 +23,7 @@ print(isPalindrome(1236))
 print(isPalindrome(1239))
 
 
-print(reverse(121))
+print(reverse(12156))
 print(isPalindrome(121))
 
 def getPalindromes(start,end):
