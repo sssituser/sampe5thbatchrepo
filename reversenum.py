@@ -17,7 +17,11 @@ print(reverse(1235))
 
 print(reverse(1234))
 
+
 print(isPalindrome(1236))
+
+print(isPalindrome(1239))
+
 
 print(reverse(121))
 print(isPalindrome(121))
