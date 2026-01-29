@@ -23,7 +23,7 @@ def getPalindromes(start,end):
     for i in range(1,end+1):
         if isPalindrome(i):
             res=res+str(i)+","
-    return res
+    return res[:-1]+"."
 
 print(getPalindromes(1,10000))
 
