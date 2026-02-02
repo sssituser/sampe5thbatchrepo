@@ -1,4 +1,5 @@
 abc
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 
 
@@ -23,3 +24,11 @@ c = a+b;
 =======
 New lined added to the abc.txt file
 >>>>>>> 827e3b2c60d4e11def25df2308a414cbd1fda063
+=======
+
+
+story 12
+x = 10
+y = 20
+z = a+b
+>>>>>>> Stashed changes
