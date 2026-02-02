@@ -1,2 +1,42 @@
 abc
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1618e914170a74436a242f868af40e1f5d66f5bd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+story - 13
+
+
+a = 5
+b = 2
+c = a+b;
+=======
 New lined added to the abc.txt file
+<<<<<<< HEAD
+>>>>>>> 827e3b2c60d4e11def25df2308a414cbd1fda063
+=======
+
+
+story 12
+x = 10
+y = 20
+z = a+b
+>>>>>>> Stashed changes
+=======
+
+>>>>>>> 1618e914170a74436a242f868af40e1f5d66f5bd

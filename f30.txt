@@ -1,0 +1,16 @@
+Hi Iam arun kumar, 
+
+<<<<<<< Updated upstream
+
+user story 20
+
+Login module
+user name
+password 
+=======
+story 19
+
+print("Enter a number : ")
+num = int(input('Enter a number : ")
+while num>0:
+>>>>>>> Stashed changes
