@@ -1,4 +1,5 @@
 abc
+<<<<<<< HEAD
 
 
 
@@ -19,3 +20,6 @@ story - 13
 a = 5
 b = 2
 c = a+b;
+=======
+New lined added to the abc.txt file
+>>>>>>> 827e3b2c60d4e11def25df2308a414cbd1fda063
